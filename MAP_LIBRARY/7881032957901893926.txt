@@ -1,0 +1,35 @@
+rivers:
+1
+6
+2 2
+2 3
+3 3
+3 2
+3 1
+2 1
+holes:
+1
+5
+0 2
+1 2
+1 1
+0 1
+0 0
+map parameters:
+4
+0 None 101 4 None d4 2
+1 None 2 105 100 d3 0
+2 None 3 206 1 d0 6
+3 None None 7 2 a 3
+4 0 5 108 None sm 4
+5 101 6 9 4 d2 1
+6 202 7 10 5 d1 5
+7 3 None 111 6 m 7
+8 104 9 12 None sk 8
+9 5 110 13 8 r 14
+10 6 11 114 109 u 10
+11 107 -1 15 10 r 10
+12 8 113 None None s 12
+13 9 14 None 112 r 15
+14 110 15 None 13 r 11
+15 11 None None 14 r 10
